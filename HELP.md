@@ -1,4 +1,8 @@
-# Getting Started
+# Exemplo de aplicação Java com SPRING BOOT
+
+Este exemplo segue o roteiro do [Curso de Spring Boot no youTube de Michelli Brito](https://www.youtube.com/watch?v=OHn1jLHGptw&list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D).
+
+O ambiente de programação é a ide Eclipse e o banco de dados MariaDB do Xampp.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
